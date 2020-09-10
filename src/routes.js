@@ -5,7 +5,7 @@ routes.get("/", async (req, res) => {
   res.send('Hello World!')
 });
 
-routes.get("/hey", async (req, res) => {
+routes.get("/heey", async (req, res) => {
   res.send('HEEEY')
 });
 
